@@ -1,0 +1,5 @@
+{
+  "name": "Irsa Kitchen Rider",
+  "description": "Rider alert system for Irsa Kitchen. Monitors active orders and alerts riders via sound and notifications.",
+  "requestFramePermissions": []
+}
